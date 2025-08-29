@@ -1,8 +1,8 @@
 ---
-title: Accel World // Burst Linker Log 
+# Accel World // Burst Linker Log 
 ---
 
-# Accel World: Enter the Unlimited Field  
+## Accel World: Enter the Unlimited Field  
 `[Neuro Linker Online...]`  
 `[Burst Link Established...]`  
 
